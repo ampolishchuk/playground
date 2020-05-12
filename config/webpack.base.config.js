@@ -25,40 +25,7 @@ function getEntires(pages) {
 }
 const pages = [
 	{
-		name: 'colorsAndTypes',
-		template: 'main',
-	},
-	{
-		name: 'formElements',
-		template: 'main',
-	},
-	{
-		name: 'cards',
-		template: 'main',
-	},
-	{
-		name: 'headersAndFooters',
-		template: 'main',
-	},
-	{
-		name: 'index',
-		template: 'main',
-	},
-	{
-		name: 'search',
-		template: 'main',
-	},
-	{
-		name: 'room',
-		template: 'main',
-	},
-	{
-		name: 'login',
-		template: 'main',
-	},
-	{
-		name: 'registration',
-		template: 'main',
+		name: 'mvc',
 	},
 ];
 
