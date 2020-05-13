@@ -1,8 +1,7 @@
 export class Model {
 	_state = {};
-	constructor(state) {
-		this._state = state;
-	}
+	_observerList = [];
+
 	set state(state) {
 		this._state = { ...this._state, ...state };
 

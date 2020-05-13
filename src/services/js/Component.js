@@ -1,6 +1,7 @@
 export class Component {
 	_state = {};
 	_observerList = [];
+
 	constructor(state = {}) {
 		this.state = state;
 		this.render();
