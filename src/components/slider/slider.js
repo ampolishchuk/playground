@@ -1,5 +1,5 @@
-import { Model } from '../../services/js/mvc/Model';
-import { View } from '../../services/js/mvc/View';
+import { Model } from '../../services/js/Model';
+import { View } from '../../services/js/View';
 
 export class Slider {
 	constructor(state) {
